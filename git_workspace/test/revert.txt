@@ -1,3 +1,7 @@
 a
+<<<<<<< HEAD
 b
 c
+=======
+b
+>>>>>>> parent of 44284be... Revert "test"
